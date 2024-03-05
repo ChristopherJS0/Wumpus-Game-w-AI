@@ -16,6 +16,7 @@ public:
 
 
 private:
+	Square Player;
 	std::vector<std::vector<Square>> WumpusGrid;
 
 };
